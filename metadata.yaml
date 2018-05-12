@@ -1,0 +1,39 @@
+_repo: Clever-Hansanimal-and-human-psychology_33936
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rahn, Carl Leo
+    alias: Rahn, Carl L.
+    birthdate: 1881
+    gutenberg_agent_id: '36715'
+    url: http://www.gutenberg.org/2009/agents/36715
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pfungst, Oskar
+    birthdate: 1874
+    deathdate: 1933
+    gutenberg_agent_id: '36714'
+    url: http://www.gutenberg.org/2009/agents/36714
+    wikipedia: http://de.wikipedia.org/wiki/Oskar_Pfungst
+description: ''
+gutenberg_issued: '2010-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33936'
+  lccn: '11010970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Horses'
+- !lcsh 'Animal intelligence'
+- !lcsh 'Animal training'
+- !lcsh 'Psychology, Comparative'
+title: "Clever Hans (The Horse of Mr. Von Osten)\r\nA contribution to experimental\
+  \ animal and human psychology"
+url: http://www.gutenberg.org/ebooks/33936

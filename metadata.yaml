@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36714
     wikipedia: http://de.wikipedia.org/wiki/Oskar_Pfungst
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33936#Clever-Hansanimal-and-human-psychology
 gutenberg_issued: '2010-10-11'
 gutenberg_type: Text
 identifiers:
